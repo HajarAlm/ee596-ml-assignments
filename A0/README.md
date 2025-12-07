@@ -1,4 +1,4 @@
-# A0 Housing Price Prediction
+# A0: Housing Price Prediction
 
 I followed a tutorial to build a linear regression model on the **Boston Housing** dataset in **Google Colab**, then downloaded the notebook into this folder.
 
