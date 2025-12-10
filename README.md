@@ -1,15 +1,25 @@
-# ee596-ml-assignments
+# EE596 A1 – Housing Price Prediction API
 
-This repository contains coursework for **EE P 596 – Machine Learning / MLOps**.
+This project deploys the linear regression model from **A0** as a REST API.
 
-Each assignment lives in its own folder:
+- **Framework:** FastAPI  
+- **Model:** scikit-learn pipeline (StandardScaler + LinearRegression)  
+- **Task:** Predict Boston Housing `MEDV` (median house value in \$1000s)
 
-- `A0/` – Intro assignment: linear regression on housing prices (Boston Housing / tutorial-based model).
-- `A1/` – Assignment 1 (to be added).
-- `A2/` – Assignment 2 (to be added).
-- `A3/` – Assignment 3 (to be added).
+---
 
-For A0, all relevant files are inside the `A0/` directory:
+## Project Structure
 
-- `A0/a0_housing_regression.ipynb`
-- `A0/README.md`
+```text
+A1/
+  app/
+    __init__.py
+    main.py          # FastAPI app / endpoints
+    model_utils.py   # loads model.joblib and wraps prediction
+  model/
+    train_model.ipynb  # training notebook from A0
+    model.joblib       # saved sklearn pipeline
+  Dockerfile
+  requirements.txt
+  deploy_notes.md
+  README.md
