@@ -1,0 +1,10 @@
+artifact_location: file:///Users/hajaralmutairi/Documents/UW_ML&DL/MLee596/ee596-ml-assignments/A2/mlruns/205745362913913660/models/m-9d7ea81162d945a58a53afce8d9f21f6/artifacts
+creation_timestamp: 1765386498415
+experiment_id: '205745362913913660'
+last_updated_timestamp: 1765386503447
+model_id: m-9d7ea81162d945a58a53afce8d9f21f6
+model_type: null
+name: model
+source_run_id: af8b93c10bd244b0afc66bbe761a01a3
+status: 2
+status_message: null

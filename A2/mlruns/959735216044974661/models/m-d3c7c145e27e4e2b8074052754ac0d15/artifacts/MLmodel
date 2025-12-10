@@ -1,0 +1,22 @@
+artifact_path: file:///Users/hajaralmutairi/Documents/UW_ML&DL/MLee596/ee596-ml-assignments/A2/mlruns/959735216044974661/models/m-d3c7c145e27e4e2b8074052754ac0d15/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.9.10
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+mlflow_version: 3.1.4
+model_id: m-d3c7c145e27e4e2b8074052754ac0d15
+model_size_bytes: 1513
+model_uuid: m-d3c7c145e27e4e2b8074052754ac0d15
+prompts: null
+run_id: 7d64643e0bdd4ef392eef6dcbebf34ea
+utc_time_created: '2025-12-10 17:47:56.324008'

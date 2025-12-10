@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/hajaralmutairi/Documents/UW_ML&DL/MLee596/ee596-ml-assignments/A2/mlruns/959735216044974661/7d64643e0bdd4ef392eef6dcbebf34ea/artifacts
+end_time: 1765388880234
+entry_point_name: ''
+experiment_id: '959735216044974661'
+lifecycle_stage: active
+run_id: 7d64643e0bdd4ef392eef6dcbebf34ea
+run_name: entertaining-ray-236
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765388876293
+status: 3
+tags: []
+user_id: hajaralmutairi
