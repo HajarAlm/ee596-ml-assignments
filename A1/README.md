@@ -8,6 +8,12 @@ This project deploys the linear regression model from **A0** as a REST API.
 
 ---
 
+## Deployed API (AWS EC2)
+The application is running on an EC2 instance in us-east-2 (Ohio).
+- Base URL: http://3.129.17.233
+- Docs (Swagger UI): http://3.129.17.233/docs
+
+  
 ## Project Structure
 
 ```text
