@@ -1,4 +1,4 @@
-# EE596 F A3 
+# EE P 596 F A3 
 
 This assignment adds **observability** to the ML prediction API using:
 
@@ -31,6 +31,7 @@ This assignment adds **observability** to the ML prediction API using:
 
 ### Swagger UI 
 ![Swagger UI](screenshots/swagger.png)
+
 
 
 
