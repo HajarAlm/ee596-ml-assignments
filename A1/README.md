@@ -13,7 +13,28 @@ The application is running on an EC2 instance in us-east-2 (Ohio).
 - Base URL: http://3.129.17.233
 - Docs (Swagger UI): http://3.129.17.233/docs
 
-  
+Example request body:
+{
+  "CRIM": 0.1,
+  "ZN": 18.0,
+  "INDUS": 2.3,
+  "CHAS": 0,
+  "NOX": 0.45,
+  "RM": 6.3,
+  "AGE": 45.0,
+  "DIS": 5.0,
+  "RAD": 1,
+  "TAX": 300.0,
+  "PTRATIO": 15.0,
+  "B": 396.0,
+  "LSTAT": 5.0
+}
+Example response:
+{
+  "prediction": 29.255944678375336
+}
+(≈ $292,559 predicted median house value.)
+
 ## Project Structure
 
 ```text
