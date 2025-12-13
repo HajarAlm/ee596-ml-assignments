@@ -14,6 +14,7 @@ The application is running on an EC2 instance in us-east-2 (Ohio).
 - Docs (Swagger UI): http://3.129.17.233/docs
 
 Example request body:
+```json
 {
   "CRIM": 0.1,
   "ZN": 18.0,
@@ -29,10 +30,14 @@ Example request body:
   "B": 396.0,
   "LSTAT": 5.0
 }
+```
+
 Example response:
+```json
 {
   "prediction": 29.255944678375336
 }
+```
 (≈ $292,559 predicted median house value.)
 
 ## Project Structure
@@ -50,3 +55,4 @@ A1/
   requirements.txt
   deploy_notes.md
   README.md
+```
