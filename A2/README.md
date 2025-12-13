@@ -1,4 +1,4 @@
-# EE P 596 – A2: Model Registry & Testing
+# EE P 596 F A2
 
 This assignment extends A0 (training) and A1 (FastAPI service) by:
 - Using **MLflow Model Registry** for the Boston Housing model
