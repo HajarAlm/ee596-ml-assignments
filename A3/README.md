@@ -20,16 +20,17 @@ This assignment adds **observability** to the ML prediction API using:
 
 ## Screenshots
 
-### Grafana dashboard (custom metric)
+### Grafana dashboard 
 ![Grafana dashboard](screenshots/grafana.png)
 
 ### Prometheus showing custom metric
 ![Prometheus custom metric](screenshots/prometheus_metric.png)
 
-### Jaeger traces (with prediction attribute)
+### Jaeger traces 
 ![Jaeger traces](screenshots/jaeger.png)
 
-### Swagger UI (optional)
+### Swagger UI 
 ![Swagger UI](screenshots/swagger.png)
+
 
 
