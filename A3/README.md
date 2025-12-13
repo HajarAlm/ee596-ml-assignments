@@ -24,10 +24,11 @@ This assignment adds **observability** to the ML prediction API using:
 ![Grafana dashboard](screenshots/grafana.png)
 
 ### Prometheus showing custom metric
-![Prometheus custom metric](screenshots/prometheus.png)
+![Prometheus custom metric](screenshots/jaeger.png)
 
 ### Jaeger traces (with prediction attribute)
 ![Jaeger traces](screenshots/jaeger.png)
 
 ### Swagger UI (optional)
 ![Swagger UI](screenshots/swagger.png)
+
